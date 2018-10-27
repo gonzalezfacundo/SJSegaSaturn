@@ -1,0 +1,42 @@
+===============================================================
+
+SonicJump SegaSaturn Version.
+
+===============================================================
+
+Descripción:
+Es un juego para telefonos moviles creado por Glu y Sega, Este
+software es solo con motivo de aprendizaje y no tiene otro fin.
+
+===============================================================
+Version 0.50 fase 2.
+
+===============================================================
+
+Uso.
+
+Dpad Izquierda	= Mueve a Sonic a la izquierda.
+Dpad Derecha	= Mueve a Sonic a la derecha.
+BTN	A	= Comienza track de audio.
+BTN	B	= Special Attack.
+Dpad Arriba	= Incrementa el salto de Sonic.
+Dpad Abajo	= Decrementa el salto de Sonic.
+
+
+
+Caracteristicas.
+
+Audio Sfx 	= PCM (implementado) - Desactivado
+Music		= CDDA(implementado) - Desactivado
+Players		= 1
+Backup		= No implementado
+3D		= No utiliza, (en un futuro puede ser para los bonus)
+Gráficos	= NBG1,Sprites, cambia paleta de texturas en ejecución.
+Colisiones	= Si.
+IA		= Pobre.
+Sonido		= Agregar al memory manager la administración de Audio PCM.
+
+
+
+
+FacundoARG.

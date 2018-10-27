@@ -1,0 +1,3 @@
+#define	EXPLODE_START_INDEX		48
+
+

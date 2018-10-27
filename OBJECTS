@@ -1,0 +1,6 @@
+# source_program
+SRCS = main.c src/dialogs.c src/enemy.c src/hero.c src/level.c src/load.c $(CMNDIR)/cinit.o
+
+SYSOBJS = $(SGLLDR)/sglarea.o C:/SaturnOrbit/TOOLS/BGCON/DEHUFF.O
+OBJS = $(SRCS:.c=.o)
+LIBS = $(SGLLDR)/sega_sys.a C:/SaturnOrbit/SBL_601/SEGALIB/LIB_COFF/sega_cmp.a -lcd -lsgl
